@@ -1,5 +1,9 @@
 # CSS 流程进度条
 
+
+![alt text](https://github.com/shzy2012/css_process/edit/master/proview.png "preview")
+
+
 HTML
 ```html
 <div class="container">
